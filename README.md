@@ -1,0 +1,2 @@
+# Face-reganization-system
+This project implements a face recognition system which first detects the face and then identifies the particular  person by comparing the detected face with image database. It will help to maintain a strong security in that  environment. Firstly the data sets are created and trained them with the help of algorithms which undergoes  feature extraction, normalization and then pre processed.
